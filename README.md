@@ -1,2 +1,2 @@
 # pentagranate
-A drawing app and teaching aid. A pet project.
+A drawing app and teaching aid.
